@@ -1,2 +1,13 @@
 # mindful-eating-bot
-telegram-bot which helps you to develop mindful eating
+telegram-bot помогающий питаться осознанно и быть внимательнее к своему телу.
+
+#### Если хотите питаться более осознанно мой бот постарается помочь!
+#### Жмите "есть хочу!" и он поможет определить эмоциональный голод и справиться с ним!
+#### Для запуска достаточно кликнуть [@mindful_raising_bot] 
+#### или найти в поиске вашего приложения @mindful_raising_bot
+#### и запустить его кнопкой /start
+
+
+Автор: _filimonka_
+
+  [@mindful_raising_bot]: [https://t.me/mindful_raising_bot]
