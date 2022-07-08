@@ -10,4 +10,4 @@ telegram-bot помогающий питаться осознанно и быт�
 
 Автор: _filimonka_
 
-  [@mindful_raising_bot]: [https://t.me/mindful_raising_bot]
+  [@mindful_raising_bot]: <https://t.me/mindful_raising_bot>
